@@ -1,5 +1,5 @@
 /*
- * $Id: main.c,v 1.2 2003/06/06 00:11:04 offer Exp $
+ * $Id: main.c,v 1.2 2003/06/06 00:11:04 offer Exp offer $
  *
  */
 
